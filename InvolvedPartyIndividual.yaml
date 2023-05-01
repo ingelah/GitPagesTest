@@ -1,7 +1,7 @@
 openapi: '3.0.3'
 info:
-  title: Involved Party
-  description: Use this API to create, list, get or update Involved Parties. 
+  title: Involved Party Individual
+  description: Use this API to create, list, get or update Involved Parties of type Individuals. 
   version: '1.0.0'
   contact:
     name: Contractus AB #todo
